@@ -40,18 +40,17 @@ PCB Manufacturing
 ## PCB Preview
 
 ### Schematic
-<img width="936" height="576" alt="stm32 sch" src="https://github.com/user-attachments/assets/b413e5f2-3412-4910-96ca-26a2217e3637" />
-
+<img width="953" height="567" alt="STM 32 PCB SCH" src="https://github.com/user-attachments/assets/13b19c18-86f5-4224-a72f-76d5e4fcf0ac" />
 
 ### PCB Layout
-<img width="962" height="548" alt="pcb layout" src="https://github.com/user-attachments/assets/1ac8b8f2-8160-4008-ad21-b0cfcf19524b" />
-
+<img width="719" height="543" alt="STM32 PCB LAYOUT" src="https://github.com/user-attachments/assets/c4843e52-6dd3-4242-be60-a0409878b2c0" />
 
 ### 3D View (Top)
-<img width="842" height="606" alt="stm32 top layer 3d model" src="https://github.com/user-attachments/assets/82fadd85-21fe-4ceb-935a-5f45b456e8df" />
+<img width="812" height="602" alt="STM32 TOP LAYER 3D VIEW" src="https://github.com/user-attachments/assets/424adc79-c237-4a39-88b7-e249e442f293" />
 
 ### 3D View (Bottom)
-<img width="679" height="596" alt="STM32 bottom layer 3d model view" src="https://github.com/user-attachments/assets/0a47a9a6-d457-4742-8dd3-bd43b67d0e60" />
+<img width="696" height="536" alt="STM32 BOTTOM LAYER 3D VIEW" src="https://github.com/user-attachments/assets/a5d93ec8-a0fb-4e8b-8711-36ca1aeeb96b" />
+
 
 
 
