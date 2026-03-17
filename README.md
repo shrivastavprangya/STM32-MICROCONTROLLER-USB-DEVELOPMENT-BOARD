@@ -39,16 +39,18 @@ PCB Manufacturing
 
 ## PCB Preview
 
-### pcb Schematic
+### Schematic
 <img width="936" height="576" alt="stm32 sch" src="https://github.com/user-attachments/assets/b413e5f2-3412-4910-96ca-26a2217e3637" />
 
 
-### pcb layout
+### PCB Layout
 <img width="962" height="548" alt="pcb layout" src="https://github.com/user-attachments/assets/1ac8b8f2-8160-4008-ad21-b0cfcf19524b" />
 
 
-### 3D View(TOP & BOTTOM )
+### 3D View (Top)
 <img width="842" height="606" alt="stm32 top layer 3d model" src="https://github.com/user-attachments/assets/82fadd85-21fe-4ceb-935a-5f45b456e8df" />
+
+### 3D View (Bottom)
 <img width="679" height="596" alt="STM32 bottom layer 3d model view" src="https://github.com/user-attachments/assets/0a47a9a6-d457-4742-8dd3-bd43b67d0e60" />
 
 
@@ -58,9 +60,9 @@ PCB Manufacturing
 
 ## Project Files
 
-- Schematic files
-- PCB layout files
-- Gerber manufacturing files
+- **Schematic** – KiCad schematic design files  
+- **PCB Layout** – Complete PCB layout and routing files  
+- **Gerber Files** – Manufacturing files used for PCB fabrication 
 
 ---
 
@@ -92,5 +94,6 @@ STM32-MICROCONTROLLER-USB-DEVELOPMENT-BOARD
 
 ## Author
 
-Pragya Shrivastav  
-Electronics & Communication Engineer
+**Pragya Shrivastav**  
+Electronics & Communication Engineer  
+PCB Design | Embedded Hardware
